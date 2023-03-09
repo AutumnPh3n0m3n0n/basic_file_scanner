@@ -6,7 +6,7 @@ import os
 from wtforms.validators import InputRequired
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'Sharath_Menon'
+app.config['SECRET_KEY'] = 'S3cr3t_K3y'
 app.config['UPLOAD_FOLDER'] = 'input_files'
 
 class UploadFileForm(FlaskForm):
