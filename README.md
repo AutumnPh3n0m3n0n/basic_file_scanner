@@ -1,4 +1,4 @@
-# file_scanner
-Writing an application to read file records
+# basic_file_scanner
+Writing a basic application to read file records
 
-This file scanner will read in some example files by their blank spaces
+This file scanner will let the user read in some files
